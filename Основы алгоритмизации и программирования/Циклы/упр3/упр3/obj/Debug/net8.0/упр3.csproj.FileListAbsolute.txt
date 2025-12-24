@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Циклы\упр3\упр3\bin\Debug\net8.0\упр3.exe
+C:\Users\User\Desktop\Циклы\упр3\упр3\bin\Debug\net8.0\упр3.deps.json
+C:\Users\User\Desktop\Циклы\упр3\упр3\bin\Debug\net8.0\упр3.runtimeconfig.json
+C:\Users\User\Desktop\Циклы\упр3\упр3\bin\Debug\net8.0\упр3.dll
+C:\Users\User\Desktop\Циклы\упр3\упр3\bin\Debug\net8.0\упр3.pdb
+C:\Users\User\Desktop\Циклы\упр3\упр3\obj\Debug\net8.0\упр3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Циклы\упр3\упр3\obj\Debug\net8.0\упр3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Циклы\упр3\упр3\obj\Debug\net8.0\упр3.AssemblyInfo.cs
+C:\Users\User\Desktop\Циклы\упр3\упр3\obj\Debug\net8.0\упр3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Циклы\упр3\упр3\obj\Debug\net8.0\упр3.dll
+C:\Users\User\Desktop\Циклы\упр3\упр3\obj\Debug\net8.0\refint\упр3.dll
+C:\Users\User\Desktop\Циклы\упр3\упр3\obj\Debug\net8.0\упр3.pdb
+C:\Users\User\Desktop\Циклы\упр3\упр3\obj\Debug\net8.0\упр3.genruntimeconfig.cache
+C:\Users\User\Desktop\Циклы\упр3\упр3\obj\Debug\net8.0\ref\упр3.dll
