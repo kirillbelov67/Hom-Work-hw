@@ -1,0 +1,34 @@
+C:\Users\User\Desktop\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+C:\Users\User\Desktop\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\User\Desktop\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\User\Desktop\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\User\Desktop\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\User\Desktop\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\User\Desktop\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb
+C:\Users\User\Desktop\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe.config
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\User\Desktop\формы\2 лаба\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb
