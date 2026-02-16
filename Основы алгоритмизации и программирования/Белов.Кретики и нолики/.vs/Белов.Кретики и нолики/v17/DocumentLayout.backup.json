@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\Kozlova_IPO21\\\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6439E372-97C0-46E0-8DB8-6303E2AF01A5}|\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438.csproj|c:\\users\\user\\onedrive\\desktop\\kozlova_ipo21\\\u0431\u0435\u043B\u043E\u0432.\u043A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\\u0431\u0435\u043B\u043E\u0432.\u043A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6439E372-97C0-46E0-8DB8-6303E2AF01A5}|\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438.csproj|solutionrelative:\u0431\u0435\u043B\u043E\u0432.\u043A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\Kozlova_IPO21\\\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\Program.cs",
+              "RelativeDocumentMoniker": "\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\Kozlova_IPO21\\\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\Program.cs",
+              "RelativeToolTip": "\u0411\u0435\u043B\u043E\u0432.\u041A\u0440\u0435\u0442\u0438\u043A\u0438 \u0438 \u043D\u043E\u043B\u0438\u043A\u0438\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:08:46.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

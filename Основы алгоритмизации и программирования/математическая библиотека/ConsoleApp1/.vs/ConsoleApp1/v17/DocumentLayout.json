@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861994AE-7FCD-4703-8DC6-40FA6D23D1EF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861994AE-7FCD-4703-8DC6-40FA6D23D1EF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7304F0B-B55F-48B4-BD74-326CCF89D8A1}|MyLibrary\\MyLibrary.csproj|C:\\Users\\User\\Desktop\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\ConsoleApp1\\mylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7304F0B-B55F-48B4-BD74-326CCF89D8A1}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyLibrary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7304F0B-B55F-48B4-BD74-326CCF89D8A1}|MyLibrary\\MyLibrary.csproj|c:\\users\\user\\desktop\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\consoleapp1\\mylibrary\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLibrary",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\ConsoleApp1\\MyLibrary\\MyLibrary.csproj",
+              "RelativeDocumentMoniker": "MyLibrary\\MyLibrary.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\ConsoleApp1\\MyLibrary\\MyLibrary.csproj",
+              "RelativeToolTip": "MyLibrary\\MyLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-09T08:03:52.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\ConsoleApp1\\MyLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\ConsoleApp1\\MyLibrary\\Class1.cs",
+              "RelativeToolTip": "MyLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:39:26.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:38:46.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

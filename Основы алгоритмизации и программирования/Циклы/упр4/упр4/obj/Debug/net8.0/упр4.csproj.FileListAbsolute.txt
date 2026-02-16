@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Циклы\упр4\упр4\bin\Debug\net8.0\упр4.exe
+C:\Users\User\Desktop\Циклы\упр4\упр4\bin\Debug\net8.0\упр4.deps.json
+C:\Users\User\Desktop\Циклы\упр4\упр4\bin\Debug\net8.0\упр4.runtimeconfig.json
+C:\Users\User\Desktop\Циклы\упр4\упр4\bin\Debug\net8.0\упр4.dll
+C:\Users\User\Desktop\Циклы\упр4\упр4\bin\Debug\net8.0\упр4.pdb
+C:\Users\User\Desktop\Циклы\упр4\упр4\obj\Debug\net8.0\упр4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Циклы\упр4\упр4\obj\Debug\net8.0\упр4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Циклы\упр4\упр4\obj\Debug\net8.0\упр4.AssemblyInfo.cs
+C:\Users\User\Desktop\Циклы\упр4\упр4\obj\Debug\net8.0\упр4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Циклы\упр4\упр4\obj\Debug\net8.0\упр4.dll
+C:\Users\User\Desktop\Циклы\упр4\упр4\obj\Debug\net8.0\refint\упр4.dll
+C:\Users\User\Desktop\Циклы\упр4\упр4\obj\Debug\net8.0\упр4.pdb
+C:\Users\User\Desktop\Циклы\упр4\упр4\obj\Debug\net8.0\упр4.genruntimeconfig.cache
+C:\Users\User\Desktop\Циклы\упр4\упр4\obj\Debug\net8.0\ref\упр4.dll
